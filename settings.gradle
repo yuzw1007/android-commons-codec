@@ -1,0 +1,3 @@
+rootProject.name='android-commons-codec'
+include ':app'
+include ':commons-codec'
